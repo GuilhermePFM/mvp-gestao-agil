@@ -30,4 +30,4 @@ Diferenciais
 
 [X] Imagens dos Protótipos de Interface feitos no Figma: wireframes/
 
-[] Vídeo de Apresentação: link para youtube: 
+[X] Vídeo de Apresentação: link para youtube: https://youtu.be/kS62OUhodGg
