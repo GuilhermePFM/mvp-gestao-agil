@@ -1,8 +1,33 @@
 # MVP Gestão Ágil de Projetos e Produtos
 
-[X] Você deverá criar um repositório público no GitHub (https://github.com/) exclusivo para essa entrega. A entrega será a URL do repositório. Assegure-se de testar o acesso público a esta URL antes de realizar a postagem do MVP. O repositório deverá ter a seguinte estrutura:
-[] MVP Canvas deverá ser criado na ferramenta Miro (https://miro.com/), incluindo informações do contexto definido. Inclua um arquivo “canvas-url.txt” com a url do board do Miro contendo todas as etapas realizadas para a Lean Inception, incluindo o MVP Canvas, na raiz do seu repositório. O template para conduzir uma lean inception pode ser obtido em https://miro.com/miroverse/lean-inception-workshop/. O uso do template em inglês é gratuito, bastando fazer uma cópia do template. Informações para o uso do template em português podem ser obtidas em https://caroli.org/template-lean-inception-remota-miro/, mas o upload de templates a partir de arquivos pode requerer uma versão paga do Miro. Obs.: Apesar do template gratuito ser em inglês, o aluno poderá preenchê-lo em português.
-[] Você pode deverá usar a ferramenta Jira para criar os itens do seu backlog do produto. Após criar o backlog no Jira, gere uma versão legível de tudo que construiu em um arquivo PDF. Inclua o arquivo com nome “product-backlog.pdf” na raiz do seu repositório. Liste os épicos, as features e as histórias de usuário (e enablers se necessário). Certifique-se que as informações que considerar relevantes para cada item do backlog (por exemplo, detalhamentos, informações de prioridade, estimativas e critérios de aceitação) estejam legíveis. Ao final do arquivo, inclua o definition of ready e o definition of done a ser seguido na gestão do backlog.
-[] O mesmo vale para o backlog da sprint. Use o mesmo formato e deixe no raiz do repositório com o nome “sprint-backlog.pdf”.
-[] Para os protótipos de interface da primeira sprint, salve os arquivos Figma como imagens e deixe na pasta “wireframes/” na raiz do repositório.
-Grave um vídeo de 2 a 4 minutos expondo sua entrega. Imagine que você está fazendo um showcase do seu projeto. Inclua o arquivo de mídia do vídeo na raiz do repositório. Alternativamente, forneça também a URL para o vídeo.
+## Intro
+O projeto tem como objetivo principal democratizar o controle financeiro, oferecendo uma solução completa e acessível para:
+* Gestão de Contas: Controle de múltiplas contas bancárias e carteiras
+* Categorização de Transações: Organização automática e manual de gastos e receitas
+* Relatórios e Dashboards: Visualização clara do status financeiro
+* Upload de Dados: Importação de extratos bancários para análise
+
+Público-Alvo
+* Pessoas físicas que desejam controlar suas finanças pessoais
+* Famílias que precisam de gestão financeira compartilhada
+* Usuários que buscam uma solução moderna e intuitiva para controle financeiro
+  
+Diferenciais
+* Interface moderna e responsiva
+* Arquitetura escalável e manutenível
+* Integração com múltiplos provedores de autenticação
+* Sistema de categorização inteligente
+* Relatórios visuais e interativos
+* Foco na experiência do usuário e acessibilidade
+
+## Entregaveis
+
+[X] ⁠Lean Inception detalhada no Miro, incluindo o MVP Canvas: https://miro.com/app/board/uXjVJNzheVY=/?share_link_id=70675623481 (tambem no txt canvas-url.txt)
+
+[X] ⁠Backlog do Produto, Definition of Ready e Definition of Done (construído no JIRA) - incluindo ao menos um requisito não funcional: product-backlog.pdf
+
+[X] ⁠Backlog da Sprint (construído no JIRA), com histórias de usuário detalhadas, estimadas e com critérios de aceitação: sprint-backlog.pdf
+
+[X] Imagens dos Protótipos de Interface feitos no Figma: wireframes/
+
+[] Vídeo de Apresentação: link para youtube: 
